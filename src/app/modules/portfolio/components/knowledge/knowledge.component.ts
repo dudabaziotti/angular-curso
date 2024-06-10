@@ -25,6 +25,10 @@ export class KnowledgeComponent {
       alt: 'Ícone de conhecimento de javascript',
     },
     {
+      src: 'assets/icons/knowledge/typescript.svg',
+      alt: 'Ícone de conhecimento de typescript',
+    },
+    {
       src: 'assets/icons/knowledge/angular.svg',
       alt: 'Ícone de conhecimento de angular',
     },
